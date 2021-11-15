@@ -1,0 +1,41 @@
+.expsenseList-body{
+    display: flex;
+  flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    
+}
+.expenseList-container{
+    background-color: aquamarine;
+    height: 90vh;
+    width: 110vh;
+    
+}
+.expanselists{
+    display: flex;
+    background-color: blueviolet;
+    height: 70px;
+    margin: 15px;
+    border-radius: 20px;
+    align-items: center;
+    padding: 5px;
+   
+    justify-content: space-between;
+}
+.expensePrice{
+    display: flex;
+    color: white;
+    background-color: violet;
+    padding: 20px;
+    width: 5%;
+    border-radius: 20px;
+    right: 20px !important;
+    font-weight: bold;
+    font-size: 18px;
+}
+.expenseItem{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}

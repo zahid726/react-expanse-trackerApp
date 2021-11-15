@@ -1,0 +1,15 @@
+.expenseData{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: violet;
+    height: 90%;
+    width: 20%;
+    padding: 2px;
+    flex-direction: column;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    box-shadow: 10px 10px 10px rgba(rgb(212, 117, 117), green, blue, 0.4);
+}

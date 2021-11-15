@@ -1,0 +1,12 @@
+.primaryBtn{
+   font-size: 22px;
+   margin: 10px;
+   background-color: blueviolet;
+   border: none;
+   color: white;
+   border-radius: 10px;
+   cursor: pointer;
+}
+.btnContainer{
+  text-align: center;
+}

@@ -1,0 +1,29 @@
+.modal{
+
+    position:absolute;
+    top: 5% ;
+    left: 0% auto;
+    width: 510px;
+    height: 310px;
+    background-color: rgba(147, 154, 185, 0.884);
+    box-shadow: 10px 10px 10px rgba(56, 56, 58, 0.363);
+}
+.modalhead span{
+    padding: 8px 8px;
+  left: 206px !important;
+  display: flex;
+  justify-content: flex-end;
+  color: white;
+  
+}
+.modalhead span:hover{
+    cursor:pointer;
+}
+.modalhead{
+  background-color: rgb(61, 59, 59); 
+  
+}
+#modalbdy{
+  display: flex;
+  justify-content: center;
+}
